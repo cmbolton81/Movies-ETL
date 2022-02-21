@@ -1,1 +1,2 @@
 # Movies-ETL
+Britta is preparing for the hackathon.  hackathon is an event where teams of analysts collaborate to work intensively on a project, using data to solve a problem. In this hackathon she is looking for us to make an automated pipline that takes in new data, performs the appropriate transformations, and loads the data into existing tables. We are going to do this my taking in three files Wikipedia data, Kaggle metadata, and the MovieLens rating data. Cleaning them and then we will be adding them to the PostgreSQL dadabase.
